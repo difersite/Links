@@ -6,5 +6,5 @@ Autor: Diego Ferruz
 ---
 # Bibliografia
 links referenciales
-[1] link(https:www.link.cl)
+[1] [name of link](https:www.link.cl)
 
