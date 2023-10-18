@@ -10,17 +10,35 @@ Despues de una installacion Vanilla de Arch, tenemos 2 verticales
 - Aplicaciones Graficas
 
 **Aplicaciones en Terminal y sus configuraciones**
+Configuracion: directorios
+git and base-devel
+aur
+$ sudo pacman -S base-devel git
+$ mkdir aur
+$ cd aur
+$ git clone https://aur.archlinux.org/yay.git
+$ cd yay
+$ makepkg -si
+
+
 nvim - Congiguracion:
 exa
 bat
 alias
-oh-my-posh o zshell
+unzip
+oh-my-posh o zshell /
 ranger o lf
 bard
 
 **Aplicaciones Grficas**
 i3
 alacritty
+picom
+dmenu
+rofi
+polybar
+ranger
+feh
 
 # Bibliografia
 links referenciales:
