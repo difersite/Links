@@ -4,6 +4,24 @@ Descripcion: En este repositorio ire incluyendo a modo de bibliografia los lugar
 Fecha: 23-06-23
 Autor: Diego Ferruz
 ---
+## INIT
+Despues de una installacion Vanilla de Arch, tenemos 2 verticales
+- Aplicaciones en Terminal y sus configuraciones
+- Aplicaciones Graficas
+
+**Aplicaciones en Terminal y sus configuraciones**
+nvim - Congiguracion:
+exa
+bat
+alias
+oh-my-posh o zshell
+ranger o lf
+bard
+
+**Aplicaciones Grficas**
+i3
+alacritty
+
 # Bibliografia
 links referenciales:
 
